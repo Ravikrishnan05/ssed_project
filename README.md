@@ -17,7 +17,14 @@ Diodes only allow current to flow in one direction. In first half cycle of AC di
 
 # oscillator
 ![Screenshot 2023-11-10 093304](https://github.com/Ravikrishnan05/ssed_project/assets/134152503/d3f803d3-7eed-4856-9030-2f7f8fa3e777)
+This is an oscillator circuit. This converts DC back to high-frequency AC of 15 to 50 KHz.
+These consist two NPN transistors.NPN transistors in a mobile charger oscillator work to generate a high-frequency AC signal that is used to drive the transformer.
 
+When the circuit is first turned on, Q1 is slightly turned on by the base current flowing through R1. This causes Q1 to conduct a small amount of current, which flows through the inductor
+
+The current flowing through the inductor induces a voltage in the feedback winding present below . This voltage is applied to the base of Q2, turning it on
+
+Now, this current passes from the 2M ohm resistor to the base of the 1st  transistor to turn it on. This transistor isn’t fully turned on, because of the resistance it turns on partially. Due to the partial turning on of the transistor, a low current passed from the primary winding of the transformer. This induces a low voltage in the auxiliary winding.
 
 https://www.engineersgarage.com/insight-how-mobile-phone-charger-works/
 ![Cell-Phone-Charger-Circuit](https://github.com/Ravikrishnan05/ssed_project/assets/134152503/004248e6-e837-43d3-8667-35df0ef15f38)

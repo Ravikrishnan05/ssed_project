@@ -15,7 +15,9 @@ Diodes only allow current to flow in one direction. In first half cycle of AC di
    The input filter capacitor smooths out the ripples and
    provides a more stable DC voltage to the voltage regulator chip
 
-#oscillator
+# oscillator
+![Screenshot 2023-11-10 093304](https://github.com/Ravikrishnan05/ssed_project/assets/134152503/d3f803d3-7eed-4856-9030-2f7f8fa3e777)
+
 
 https://www.engineersgarage.com/insight-how-mobile-phone-charger-works/
 ![Cell-Phone-Charger-Circuit](https://github.com/Ravikrishnan05/ssed_project/assets/134152503/004248e6-e837-43d3-8667-35df0ef15f38)
